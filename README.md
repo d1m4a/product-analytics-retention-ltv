@@ -1,2 +1,35 @@
-# product-analytics-retention-ltv
-Product analytics project: retention, churn and LTV analysis using e-commerce dataset
+📊 Product Analytics: Retention, Churn, LTV
+
+📌 Описание проекта
+
+Анализ пользовательского поведения в e-commerce продукте.
+Цель — выявить точки оттока и оценить ценность пользователей.
+
+📂 Данные
+
+Использован датасет: Olist e-commerce dataset
+
+📈 Что сделано
+
+- Когортный анализ (retention)
+- Анализ оттока пользователей (churn)
+- Расчет LTV
+- Сегментация пользователей
+
+🔍 Основные выводы
+
+- Основной отток происходит в первый месяц
+- Пользователи с повторными покупками дают основной вклад в выручку
+- Retention значительно падает после первой покупки
+
+💡 Рекомендации
+
+- Улучшить onboarding пользователей
+- Внедрить механики удержания (email / push)
+- Стимулировать повторные покупки
+
+🛠️ Стек
+
+- SQL
+- Python (pandas)
+- Power BI / Tableau
