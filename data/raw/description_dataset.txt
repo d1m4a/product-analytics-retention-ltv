@@ -1,4 +1,7 @@
 
+Посмотреть схему связи датафреймов можно в /screenshot
+
+
 olist_customers_dataset.csv
 
 Набор данных клиентов
